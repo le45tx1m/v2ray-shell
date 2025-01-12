@@ -1,3 +1,7 @@
+<a href="https://dartnode.com/?via=ifeng" target="_blank"><img src="https://status.dartnode.com/upload/logo1.png" width="100px"></a><br>
+I am honored that DARTNODE is offering a free server to sponsor my project.<br>
+DARTNODE's official Web Site : [https://dartnode.com](https://dartnode.com/?via=ifeng)
+
 # v2ray
 V2ray多合一脚本，支持VMESS+websocket+TLS+Nginx、VLESS+TCP+XTLS、VLESS+TCP+TLS等组合
 
@@ -20,6 +24,8 @@ bash <(curl -sL https://ghproxy.com/https://raw.githubusercontent.com/le45tx1m/v
 如果没有出现安装菜单，CentOS系统请输入 yum install -y curl，Ubuntu/Debian系统请输入 sudo apt install -y curl，然后再次运行上面的命令。<br>
 <br>
 <p>维护更新：</p>
+2023年12月23日<br>
+<p>修改脚本判断域名是否解析正确的Bug。</p>
 2022年12月14日<br>
 <p>修改在ipv4&ipv6双栈主机下，DNS同时解析ipv4和ipv6记录，脚本判断域名是否解析正确的Bug。</p>
 2022年12月09日<br>
